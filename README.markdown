@@ -1,0 +1,1 @@
+The ruby file update.rb creates dirs in /talks for all new events. To use, create a file called meetup_key which has one line containing your meetup.com API key. You can get your API key by going to [meetup.com](http://www.meetup.com/meetup_api/key/).
