@@ -1,2 +1,27 @@
+# techtalk specific
 meetup_key
-*/.DS_Store
+
+# general
+.DS_Store
+.hg
+.svn
+CVS
+
+# Xcode
+dsa_priv.pem
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+VersionX-revision.h
+build/
+*.[oa]
+*~.nib
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
